@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Advent of Code,🎄center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%2334BB00&center=true&vCenter=true&lines=Advent+of+Code+%F0%9F%8E%84">
   </a>
 </h1>
 
