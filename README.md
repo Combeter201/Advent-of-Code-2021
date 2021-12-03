@@ -1,18 +1,17 @@
 # Advent of Code 2021 🎄
 
-```html
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
-```
+<table>
+  <tr>
+    <td>
+      <img src="demo/screenshot1_framed.jpg">
+    </td>
+    <td>
+      <img src="demo/screenshot2_framed.jpg">
+    </td>
+    <td>
+      <img src="demo/screenshot3_framed.jpg">
+    </td>
+  </tr>
+</table>
 
 ![App Screenshot](https://blog.pythondiscord.com/content/images/size/w2000/2021/03/AoC_banner.png)
